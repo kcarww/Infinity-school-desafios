@@ -37,4 +37,4 @@
 * ID deve ser único e positivo
 * Nome não pode estar vazio
 * Salário deve ser positivo
-* Tratar entradas inválidas sem quebrar o programa
+* <sub>Tratar entradas inválidas sem quebrar o programa<sub>
